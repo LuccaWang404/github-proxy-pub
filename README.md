@@ -2,17 +2,17 @@
 
 ## 简介
 
+本项目为 hunshcn/gh-proxy 的修改版。
+
+原项目传送门：[hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy)
+
 github release、archive以及项目文件的加速项目，支持clone，有Cloudflare Workers无服务器版本以及Python版本
 
-## 演示
+## 访问地址
 
-[https://gh.api.99988866.xyz/](https://gh.api.99988866.xyz/)
+https://github.404cafe.fun/
 
-演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
-
-![imagea272c95887343279.png](https://img.maocdn.cn/img/2021/04/24/imagea272c95887343279.png)
-
-当然也欢迎[捐赠](#捐赠)以支持作者
+本站点为公共服务，如有大规模使用需求请自行部署，本站免费请求数量有限
 
 ## python版本和cf worker版本差异
 
@@ -22,11 +22,11 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 
 ## 使用
 
-直接在copy出来的url前加`https://gh.api.99988866.xyz/`即可
+直接在copy出来的url前加`https://github.404cafe.fun/`即可
 
 也可以直接访问，在input输入
 
-***大量使用请自行部署，以上域名仅为演示使用。***
+***本站点使用的是workers免费版，每日请求数量有限。若需大量使用请自行部署，以上域名请大家酌情使用。***
 
 访问私有仓库可以通过
 
@@ -104,15 +104,8 @@ python版本默认走服务器（2021.3.27更新）
 * 2020.03.23 新增了clone的支持
 * 2020.03.22 初始版本
 
-## 链接
-
-[我的博客](https://hunsh.net)
 
 ## 参考
 
 [jsproxy](https://github.com/EtherDream/jsproxy/)
 
-## 捐赠
-
-![wx.png](https://img.maocdn.cn/img/2021/04/24/image.md.png)
-![ali.png](https://www.helloimg.com/images/2021/04/24/BK9vmb.md.png)
