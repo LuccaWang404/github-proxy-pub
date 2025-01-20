@@ -10,7 +10,7 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 
 ## 访问地址
 
-https://github.404cafe.fun/
+https://gh.404cafe.fun/
 
 本站点为公共服务，如有大规模使用需求请自行部署，本站免费请求数量有限
 
