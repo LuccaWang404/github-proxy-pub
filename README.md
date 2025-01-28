@@ -22,7 +22,7 @@ https://gh.404cafe.fun/
 
 ## 使用
 
-直接在copy出来的url前加`https://github.404cafe.fun/`即可
+直接在copy出来的url前加`https://gh.404cafe.fun/`即可
 
 也可以直接访问，在input输入
 
